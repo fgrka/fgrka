@@ -10,3 +10,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
+<br>
+<div>
+  <h4>Latest projects:</h4>
+</div>
+<div><b>	&#9679; GYM APP </b> - app for creating custom gym workout / React, SCSS: https://gym-app-silk.vercel.app/</div>
+
+<div><b> 	&#9679; Electrical Engineering website </b>: www.biuroprofiko.pl</div>
+<div><b> 	&#9679; Restaurant Order App </b> - app for ordering food in restaurant, in progress: https://fgrka-restaurant-app.vercel.app/  </div>
+</div>
